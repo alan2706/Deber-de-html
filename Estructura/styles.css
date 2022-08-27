@@ -1,0 +1,19 @@
+body{
+  background-color: lightblue
+}
+
+h1{
+    color: green;
+    background-color: Peru;
+    border: 5px solid black;
+}
+h2{
+    background-color: Peru;
+    border: 5px solid black;
+}
+
+
+.texto-centrado{
+  text-align: center;
+
+
